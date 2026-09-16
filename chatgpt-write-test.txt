@@ -1,0 +1,4 @@
+ChatGPT GitHub connector write test
+Date: 2026-09-16
+Status: initial write succeeded
+Scope: isolated test branch only
